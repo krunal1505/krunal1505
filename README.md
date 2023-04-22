@@ -13,8 +13,8 @@
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/krunal-raol-343b0985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krunal-raol-343b0985" height="30" width="40" /></a>
-<a href="https://instagram.com/krunal1505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krunal1505" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krunal-raol-343b0985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krunal-raol-343b0985" height="30" width="40" target="_blank" /></a>
+<a href="https://instagram.com/krunal1505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krunal1505" height="30" width="40" target="_blank"/></a>
 </p>
 
 <br />
